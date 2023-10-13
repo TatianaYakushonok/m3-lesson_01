@@ -24,6 +24,13 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: normal;
+  color: #000;
+  background-color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 ul {
@@ -43,4 +50,8 @@ p {
   max-width: 1220px;
   padding: 0 30px;
   margin: 0 auto;
+}
+
+.section {
+  padding: 50px 0;
 }
